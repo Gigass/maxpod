@@ -1,0 +1,21 @@
+工程标题: 		MaxPod Click Wheel Breakout
+板子标题: 		Board2_1
+PCB 标题: 		PCB2_1
+时间: 		2026-05-22 14:13:18
+
+板子尺寸: 		0mm x 0mm
+层: 		Total 22, Copper 2
+
+器件: 		3
+封装: 		3
+元件: 		Total 5,top 5,Bottom 0
+焊盘: 		Total 30, TopSurface 22,BotSurface 0,Plated Through-hole 8, Nono Plated Through-role 0
+网络: 		Total 8, Unrouted 8
+测试点: 		All Nets 8,Has Testpoint Nets 8,Testpoint Coverage 100%
+ 		Total 8,Top Side Testpoints 8,Bottom Side Testpoints 0
+
+挖槽区域: 		0
+过孔: 		Total 10, Through Vias 10, Blind Or Buried Vais 0
+铺铜区域: 		0
+导线长度: 		302.585mm
+
